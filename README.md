@@ -1,6 +1,6 @@
 # generative-art
 
-A simple generative art algorithm prototype
+A simple generative art algorithm prototype.
 
 You can play with the application here: https://xandjiji.github.io/generative-art/
 
