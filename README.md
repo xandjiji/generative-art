@@ -4,10 +4,18 @@ A simple generative art algorithm prototype.
 
 You can play with the application here: https://xandjiji.github.io/generative-art/
 
-![gen01](https://i.imgur.com/KbWmP6O.png)
-![gen02](https://i.imgur.com/EfNZv3d.png)
-![gen03](https://i.imgur.com/Wl4EHJQ.png)
-![gen04](https://i.imgur.com/HukhAfT.png)
+<p align="center">
+  <img src="https://i.imgur.com/KbWmP6O.png">
+</p>
+<p align="center">
+  <img src="https://i.imgur.com/EfNZv3d.png">
+</p>
+<p align="center">
+  <img src="https://i.imgur.com/Wl4EHJQ.png">
+</p>
+<p align="center">
+  <img src="https://i.imgur.com/HukhAfT.png">
+</p>
 
 ### Installation
 
